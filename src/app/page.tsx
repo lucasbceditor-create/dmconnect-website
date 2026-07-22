@@ -1,6 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
-import { ArrowRight, MessageCircle, Zap, TrendingUp, CheckCircle2, Globe, Shield, CreditCard, ChevronRight } from 'lucide-react';
+import { ArrowRight, Zap, CheckCircle2, Globe } from 'lucide-react';
 
 export default function Home() {
   return (
