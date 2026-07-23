@@ -9,7 +9,7 @@ export default function Home() {
       <nav className="fixed top-0 w-full z-50 bg-[#050505]/80 backdrop-blur-md border-b border-white/5">
         <div className="max-w-7xl mx-auto px-6 h-20 flex items-center justify-between">
           <div className="flex items-center gap-2">
-            <img src="/logo.jpg" alt="DMConnect Logo" className="w-10 h-10 rounded-xl object-cover shadow-[0_0_20px_rgba(16,185,129,0.3)]" />
+            <img src="/logo.svg" alt="DMConnect Logo" className="w-10 h-10 rounded-xl object-cover drop-shadow-[0_0_20px_rgba(16,185,129,0.3)]" />
             <span className="font-bold text-xl tracking-tight">DMConnect</span>
           </div>
           <div className="hidden md:flex items-center gap-8 text-sm font-medium text-neutral-400">
