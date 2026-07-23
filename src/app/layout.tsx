@@ -15,6 +15,11 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "DMConnect - Automação de Instagram Inteligente e Acessível",
   description: "A automação de Instagram perfeita para infoprodutores e negócios locais. Responda Stories, DMs e Comentários 24h por dia. O fim das mensalidades abusivas em Dólar.",
+  icons: {
+    icon: '/logo.jpg',
+    shortcut: '/logo.jpg',
+    apple: '/logo.jpg',
+  },
 };
 
 export default function RootLayout({
